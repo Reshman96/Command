@@ -1,0 +1,15 @@
+{
+  "name": "command",
+  "version": "1.0.0",
+  "description": "This is a TypeScript project which is meant to display an example of the Command pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.5"
+  }
+}
